@@ -1,0 +1,18 @@
+<resources>
+    <string name="nomor">Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir(Tanggal/Bulan/Tahun)</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+    <string name="back">Back</string>
+    <string name="textview">TextView</string>
+    <string name="some_action">Some Action</string>
+    <string name="buat_biodata_baru">Buat Biodata Baru</string>
+    <string name="update">Update</string>
+    <string name="app_name">MyProfile</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+</resources>
